@@ -1,0 +1,22 @@
+.navbar-nav{
+    
+    position: relative;
+}
+.nav-link{
+    box-sizing: border-box;
+    margin:0px 20px;
+    color:#333333;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-style: normal;
+}
+
+.nav-link:hover{
+    border-top-width: 3px;
+    border-top-style: solid;
+    color: #e9122d;
+    border-color: #e9122d;
+}

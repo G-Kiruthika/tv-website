@@ -1,0 +1,33 @@
+.login-wrapper{
+    width: 100%;
+}
+.login-left{
+    float: left;
+    width: 50%;
+}
+.login-right{
+    float: right;
+    width: 50%;
+}
+.login-form-wrapper{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+input[type=text]{
+    background-color:#f0f0f5;
+}
+input[type=text]:focus{
+    border: none;
+    background-color: #cce0ff;
+}
+.login-btn{
+    width: 200px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ea4c89 ;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+} 
